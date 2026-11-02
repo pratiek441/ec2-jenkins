@@ -140,6 +140,8 @@ Maven is a build automation tool used to compile, test, and package Java applica
 
 ## 7. Install Jenkins
 
+// copy script from https://www.jenkins.io/doc/book/installing/linux/#red-hat-centos
+
 Add the Jenkins repository:
 
 ```bash
